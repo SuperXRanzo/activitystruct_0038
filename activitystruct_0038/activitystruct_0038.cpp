@@ -15,4 +15,7 @@ struct Mahasiswa {
     int umur;
 };
 
-
+int main()
+{
+    Mahasiswa mhs;
+    cout << "Nomor Mahasiswa : ";
