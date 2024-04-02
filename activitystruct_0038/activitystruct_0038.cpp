@@ -36,3 +36,4 @@ int main()
     cout << "\n NIM : " << mhs.nim;
     cout << "\n Nama : " << mhs.nama;
     cout << "\n Alamat : ";
+    cout << "\n \t Desa : " << mhs.alamat.desa;
